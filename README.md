@@ -16,11 +16,13 @@ The config contains:
 
 ## Configs:
 
-### Lazy.vim:
-
-Lazy.nvim is our package manager of choice. Our *Lazy.nvim* config works by loading each plugin from the *plugins* folder.
+- Lazy.nvim is our package manager of choice. Our *Lazy.nvim* config works by loading each plugin from the *plugins* folder.
+- config/keymaps: Custom keymaps and remaps. Keymaps is loaded by Lazy.nvim after it finishes the setup.
+- config/options: The options are loaded by *Lazy.nvim* before it sets up the plugins. 
 
 ## Plugins:
 
 The plugins used are:
 - Gruvbox: The chosen color scheme. Some ovverrides are made to improve the visibility of comments and line numbers.
+- mini.statusline: A simple lightweight status line.
+- oil.nivm : Edit filesystem files like any neovim buffer.
