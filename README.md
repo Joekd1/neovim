@@ -28,6 +28,7 @@ The plugins used are:
 - oil.nivm : Edit filesystem files like any neovim buffer.
 - nvim-treesitter: For more efficient syntax aware highlighting, indentation, selection and more.
 - nvim-treesitter-textobjects: Syntax aware text-objects for moving, changing and perform vim actions.
-
 - which-key : Helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - fzf-lua: A light-weight, powerful fuzzy finder for better project navigation.
+- LSP: The LSP config is mostly taken from *kickstart.nvim*, with few modifications related to fzf-lua.
+ 
