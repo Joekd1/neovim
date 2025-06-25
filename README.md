@@ -26,3 +26,6 @@ The plugins used are:
 - Gruvbox: The chosen color scheme. Some ovverrides are made to improve the visibility of comments and line numbers.
 - mini.statusline: A simple lightweight status line.
 - oil.nivm : Edit filesystem files like any neovim buffer.
+- nvim-treesitter: For more efficient syntax aware highlighting, indentation, selection and more.
+- nvim-treesitter-textobjects: Syntax aware text-objects for moving, changing and perform vim actions.
+
