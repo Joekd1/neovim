@@ -31,4 +31,5 @@ The plugins used are:
 - which-key : Helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - fzf-lua: A light-weight, powerful fuzzy finder for better project navigation.
 - LSP: The LSP config is mostly taken from *kickstart.nvim*, with few modifications related to fzf-lua.
+- conform : A lightweight and powerful formatter.
  
