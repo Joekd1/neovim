@@ -34,6 +34,8 @@ vim.opt.signcolumn = "yes"
 -- reduce update time to show diagnostics on hover
 vim.o.updatetime = 1000
 
+vim.g.vimwiki_global_ext = 0
+
 -- [[ Highlight on yank ]]
 local highlight_group = vim.api.nvim_create_augroup("YankHighlight", { clear = true })
 vim.api.nvim_create_autocmd("TextYankPost", {
