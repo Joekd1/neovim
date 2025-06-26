@@ -40,3 +40,4 @@ The plugins used are:
 - dressing.nvim : Ui improvment (might need an alternative soon becuase the package is archived).
 - arrow: File bookmarker (similar to Haropoon but easier to setup).
 - lazygit: Lazygit intergration form within neovim.
+- render-markdown.nvim: Rendering markdown inside neovim. 
