@@ -36,5 +36,7 @@ The plugins used are:
 - mini-pairs: Autocomplete character pairs.
 - vimwiki: For creating a personal wiki and diary.
 - nvim-tmux-navigation: Seamless navigation between tmux and neovim.
-
- 
+- dropbar: Provides IDE-like breadcrumbs and navigation.
+- dressing.nvim : Ui improvment (might need an alternative soon becuase the package is archived).
+- arrow: File bookmarker (similar to Haropoon but easier to setup).
+- lazygit: Lazygit intergration form within neovim.
