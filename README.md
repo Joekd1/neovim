@@ -33,4 +33,8 @@ The plugins used are:
 - LSP: The LSP config is mostly taken from *kickstart.nvim*, with few modifications related to fzf-lua.
 - conform : A lightweight and powerful formatter.
 - blink-cmp : For autocompletion and snippets.
+- mini-pairs: Autocomplete character pairs.
+- vimwiki: For creating a personal wiki and diary.
+- nvim-tmux-navigation: Seamless navigation between tmux and neovim.
+
  
