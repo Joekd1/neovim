@@ -32,4 +32,5 @@ The plugins used are:
 - fzf-lua: A light-weight, powerful fuzzy finder for better project navigation.
 - LSP: The LSP config is mostly taken from *kickstart.nvim*, with few modifications related to fzf-lua.
 - conform : A lightweight and powerful formatter.
+- blink-cmp : For autocompletion and snippets.
  
