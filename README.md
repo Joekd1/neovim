@@ -41,3 +41,4 @@ The plugins used are:
 - arrow: File bookmarker (similar to Haropoon but easier to setup).
 - lazygit: Lazygit intergration form within neovim.
 - render-markdown.nvim: Rendering markdown inside neovim. 
+- nvim-ansible: Helps detect ansible files and set filetype to asnible. Works great with ansible-language-server

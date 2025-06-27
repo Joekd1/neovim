@@ -203,6 +203,7 @@ return {
 				bashls = {},
 				marksman = {},
 				pylsp = {},
+				ansiblels = {},
 				-- clangd = {},
 				-- gopls = {},
 				-- pyright = {},
