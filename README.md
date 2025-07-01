@@ -42,3 +42,4 @@ The plugins used are:
 - lazygit: Lazygit intergration form within neovim.
 - render-markdown.nvim: Rendering markdown inside neovim. 
 - nvim-ansible: Helps detect ansible files and set filetype to asnible. Works great with ansible-language-server
+- nvim.lint: For linting,
