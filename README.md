@@ -1,7 +1,9 @@
 # neovim
 
-A modular neovim config created from scratch as an attempt to balance simplicity and functionality. 
-The goal is to build just enough of the IDE experience like: 
+A modular neovim config created from scratch as an attempt to balance
+simplicity and functionality.
+
+The goal is to build just enough of the IDE experience like:  
 
 - LSP support
 - Code completions
@@ -9,7 +11,8 @@ The goal is to build just enough of the IDE experience like:
 
 ## Structure
 
-The config contains: 
+The config contains:  
+
 - init.lua: It loads the *lazy.nvim* plugin config.
 - lua/config: contains the configuation files.
 - lua/plugins: contains the plugin specs.
@@ -23,6 +26,7 @@ The config contains:
 ## Plugins:
 
 The plugins used are:
+
 - Gruvbox: The chosen color scheme. Some ovverrides are made to improve the visibility of comments and line numbers.
 - mini.statusline: A simple lightweight status line.
 - oil.nivm : Edit filesystem files like any neovim buffer.
