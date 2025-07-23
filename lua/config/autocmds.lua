@@ -40,8 +40,8 @@ end
 vim.api.nvim_create_autocmd("VimEnter", {
 	group = augroup("autoupdate"),
 	callback = function()
-		require("lazy").update({
-			show = false,
-		})
+		if require("lazy.status").has_updates then
+			require("lazy").update({ show = false })
+		end
 	end,
 })
