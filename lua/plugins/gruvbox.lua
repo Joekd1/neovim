@@ -10,6 +10,6 @@ return {
 				["LineNr"] = { fg = "#79740e" },
 			},
 		})
-		vim.cmd.colorscheme("gruvbox")
+		-- vim.cmd.colorscheme("gruvbox")
 	end,
 }
